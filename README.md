@@ -3,13 +3,11 @@
 
 Hello, I'm Krystian 👋
 
-I'm a passionate tech enthusiast based in Poland. My main areas of interest are PowerShell, Python, and all things related to automation and scripting.
+I'm a passionate tech enthusiast based in Poland. My main areas of interest are DevOps,PowerShell, Python, and all things related to automation and scripting.
 
 ## My Projects
 
 Here you'll find a collection of projects I've worked on, ranging from scripts and utilities to more extensive applications. 
-
-I particularly encourage you to check out my scripts for AzureAD and ExchangeOnline, which can greatly enhance your experience with these tools. They are designed to streamline various tasks and improve the usability of these platforms.
 
 
 
